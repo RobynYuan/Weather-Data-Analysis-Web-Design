@@ -32,7 +32,7 @@ The website must consist of 7 pages total, including:
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
   * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
-  ![landing_page.png](Images/laniding_page.png)
+  ![landing_page.png](Images/landing_page.png)
 * Four [visualization pages](#visualization-pages), each with:
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
