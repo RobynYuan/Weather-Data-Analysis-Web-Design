@@ -5,7 +5,7 @@
 
 ## Background
 
-create a dashboard to show the analysis. 
+Create a dashboard to show the analysis on weather data
 
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
@@ -19,13 +19,13 @@ The website must consist of 7 pages total, including:
   * An explanation of the project.
   * Links to each visualizations page. There is  a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
   ![landing_page.png](Images/landing_page.png)
-  
+
 * Four visualization pages, each with:
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
 
-* A ["Comparisons" page](#comparisons-page) that:
+* A Comparisons page that:
   * Contains all of the visualizations on the same page so we can easily visually compare them. 
    ![comparison.png](Images/comparison.png)
 
@@ -41,3 +41,6 @@ The website must, at the top of every page, have a navigation menu that:
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
   ![dropdown.png](Images/dropdown.png)
 
+
+The website works at all window widths/sizes
+ ![responsive.png](Images/responsive.png)
