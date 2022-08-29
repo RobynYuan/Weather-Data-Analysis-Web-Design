@@ -1,7 +1,7 @@
 
 # Web Design - Web Visualization Dashboard (Latitude)
 
- https://robynyuan.github.io/Web-Design-Challenge/
+ https://robynyuan.github.io/Weather-Data-Analysis-Web-Design/
 
 ## Background
 
